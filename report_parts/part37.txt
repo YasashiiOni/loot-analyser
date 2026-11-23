@@ -1,0 +1,875 @@
+ergyAmount":0}
+data[1].equipment.cursorConfig.customCursorEntity = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorConfig.autoCenterPivot = true [boolean]
+data[1].equipment.cursorConfig.pivotOffset <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.cursorConfig.pivotOffset.x = 0.0 [number]
+data[1].equipment.cursorConfig.pivotOffset.y = 0.0 [number]
+data[1].equipment.cursorConfig.pivotOffset.z = 0.0 [number]
+data[1].equipment.cursorConfig.voxelGridSnappingDirective = ForceVoxelCenterWhenSmallerThanVoxel [string]
+data[1].equipment.cursorConfig.snapToCenterWhenSmallerThanVoxel = true [boolean]
+data[1].equipment.cursorConfig.allowSnapToSnappingBoxes = false [boolean]
+data[1].equipment.cursorConfig.translationConfig <userdata> {"defaultSnapping":false,"canToggleSnapping":true}
+data[1].equipment.cursorConfig.translationConfig.defaultSnapping = false [boolean]
+data[1].equipment.cursorConfig.translationConfig.canToggleSnapping = true [boolean]
+data[1].equipment.cursorConfig.axisRotationX <userdata> {"automatic":"Free","manual":"Free"}
+data[1].equipment.cursorConfig.axisRotationX.automatic = Free [string]
+data[1].equipment.cursorConfig.axisRotationX.manual = Free [string]
+data[1].equipment.cursorConfig.axisRotationY <userdata> {"automatic":"Free","manual":"Free"}
+data[1].equipment.cursorConfig.axisRotationY.automatic = Free [string]
+data[1].equipment.cursorConfig.axisRotationY.manual = Free [string]
+data[1].equipment.cursorConfig.axisRotationZ <userdata> {"automatic":"Free","manual":"Free"}
+data[1].equipment.cursorConfig.axisRotationZ.automatic = Free [string]
+data[1].equipment.cursorConfig.axisRotationZ.manual = Free [string]
+data[1].equipment.cursorConfig.smoothOutTerrainNormal = false [boolean]
+data[1].equipment.cursorConfig.alwaysFacePlayer = false [boolean]
+data[1].equipment.cursorConfig.addRandomYawAngleOffset = false [boolean]
+data[1].equipment.cursorConfig.primaryActionConfig <userdata> {"hideWhenUnused":false,"snapPositionToAddableVoxel":false,"snapPositionToRemovableVoxel":false}
+data[1].equipment.cursorConfig.primaryActionConfig.hideWhenUnused = false [boolean]
+data[1].equipment.cursorConfig.primaryActionConfig.snapPositionToAddableVoxel = false [boolean]
+data[1].equipment.cursorConfig.primaryActionConfig.snapPositionToRemovableVoxel = false [boolean]
+data[1].equipment.cursorConfig.attachAngleConfig <userdata> {"ceilingAngle":"Disabled","wallAngle":"Disabled","floorAngle":"Narrow","defaultAttachDirection":"Floor","secondaryAttachDirection":"Wall","hasSecondaryAttachDirection":false,"forceUprightNormal":false}
+data[1].equipment.cursorConfig.attachAngleConfig.ceilingAngle = Disabled [string]
+data[1].equipment.cursorConfig.attachAngleConfig.wallAngle = Disabled [string]
+data[1].equipment.cursorConfig.attachAngleConfig.floorAngle = Narrow [string]
+data[1].equipment.cursorConfig.attachAngleConfig.defaultAttachDirection = Floor [string]
+data[1].equipment.cursorConfig.attachAngleConfig.secondaryAttachDirection = Wall [string]
+data[1].equipment.cursorConfig.attachAngleConfig.hasSecondaryAttachDirection = false [boolean]
+data[1].equipment.cursorConfig.attachAngleConfig.forceUprightNormal = false [boolean]
+data[1].equipment.cursorConfig.checkRequiredMaterialsOnPrimaryAction = true [boolean]
+data[1].equipment.cursorConfig.secondaryActionConfig <userdata> {"hideWhenUnused":false,"snapPositionToAddableVoxel":false,"snapPositionToRemovableVoxel":false}
+data[1].equipment.cursorConfig.secondaryActionConfig.hideWhenUnused = false [boolean]
+data[1].equipment.cursorConfig.secondaryActionConfig.snapPositionToAddableVoxel = false [boolean]
+data[1].equipment.cursorConfig.secondaryActionConfig.snapPositionToRemovableVoxel = false [boolean]
+data[1].equipment.cursorConfig.checkRequiredMaterialsOnSecondaryAction = false [boolean]
+data[1].equipment.cursorConfig.useSphereCast = false [boolean]
+data[1].equipment.cursorConfig.colliderMask <userdata> ["World","Solid","Interaction"]
+data[1].equipment.cursorConfig.colliderMask.1 = World [string]
+data[1].equipment.cursorConfig.colliderMask.2 = Solid [string]
+data[1].equipment.cursorConfig.colliderMask.3 = Interaction [string]
+data[1].equipment.cursorConfig.collisionCheckFlags <userdata> []
+data[1].equipment.cursorConfig.preferPositionInsideWater = false [boolean]
+data[1].equipment.cursorConfig.allowWaterPlacement = true [boolean]
+data[1].equipment.cursorConfig.keepSnappedToPlane = false [boolean]
+data[1].equipment.cursorConfig.checkBuildZoneEnemies = false [boolean]
+data[1].equipment.cursorConfig.checkSurfaceTopology = false [boolean]
+data[1].equipment.cursorConfig.allowedVoxels <userdata> []
+data[1].equipment.cursorConfig.highlightHoveredEntity = false [boolean]
+data[1].equipment.cursorConfig.showVoxelBlock = false [boolean]
+data[1].equipment.cursorConfig.addFxConfig <userdata> {"loopedSfx":"00000000-0000-0000-0000-000000000000","oneShotSfx":"00000000-0000-0000-0000-000000000000","oneShotVfx":"00000000-0000-0000-0000-000000000000","oneShotVfxOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"vfxParameters":{"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"vfxParameterOffset_boundingBoxMin":-1,"vfxParameterOffset_boundingBoxMax":-1,"vfxResourceReferences":{"meshes":[],"models":[],"jointCollections":[]}}
+data[1].equipment.cursorConfig.addFxConfig.loopedSfx = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorConfig.addFxConfig.oneShotSfx = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfx = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset <userdata> {"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}}
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.localOffset <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.localOffset.x = 0.0 [number]
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.localOffset.y = 0.0 [number]
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.localOffset.z = 0.0 [number]
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.worldOffset <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.worldOffset.x = 0.0 [number]
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.worldOffset.y = 0.0 [number]
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.worldOffset.z = 0.0 [number]
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.orientationOffset <userdata> {"x":0,"y":0,"z":0,"w":1}
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.orientationOffset.x = 0.0 [number]
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.orientationOffset.y = 0.0 [number]
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.orientationOffset.z = 0.0 [number]
+data[1].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.orientationOffset.w = 1.0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters <userdata> {"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data <userdata> [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.1 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.2 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.3 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.4 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.5 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.6 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.7 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.8 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.9 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.10 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.11 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.12 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.13 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.14 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.15 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameters.data.16 = 0 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameterOffset_boundingBoxMin = -1 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxParameterOffset_boundingBoxMax = -1 [number]
+data[1].equipment.cursorConfig.addFxConfig.vfxResourceReferences <userdata> {"meshes":[],"models":[],"jointCollections":[]}
+data[1].equipment.cursorConfig.addFxConfig.vfxResourceReferences.meshes <userdata> []
+data[1].equipment.cursorConfig.addFxConfig.vfxResourceReferences.models <userdata> []
+data[1].equipment.cursorConfig.addFxConfig.vfxResourceReferences.jointCollections <userdata> []
+data[1].equipment.cursorConfig.subFxConfig <userdata> {"loopedSfx":"00000000-0000-0000-0000-000000000000","oneShotSfx":"00000000-0000-0000-0000-000000000000","oneShotVfx":"00000000-0000-0000-0000-000000000000","oneShotVfxOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"vfxParameters":{"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"vfxParameterOffset_boundingBoxMin":-1,"vfxParameterOffset_boundingBoxMax":-1,"vfxResourceReferences":{"meshes":[],"models":[],"jointCollections":[]}}
+data[1].equipment.cursorConfig.subFxConfig.loopedSfx = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorConfig.subFxConfig.oneShotSfx = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfx = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset <userdata> {"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}}
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.localOffset <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.localOffset.x = 0.0 [number]
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.localOffset.y = 0.0 [number]
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.localOffset.z = 0.0 [number]
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.worldOffset <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.worldOffset.x = 0.0 [number]
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.worldOffset.y = 0.0 [number]
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.worldOffset.z = 0.0 [number]
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.orientationOffset <userdata> {"x":0,"y":0,"z":0,"w":1}
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.orientationOffset.x = 0.0 [number]
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.orientationOffset.y = 0.0 [number]
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.orientationOffset.z = 0.0 [number]
+data[1].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.orientationOffset.w = 1.0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters <userdata> {"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data <userdata> [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.1 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.2 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.3 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.4 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.5 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.6 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.7 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.8 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.9 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.10 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.11 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.12 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.13 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.14 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.15 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameters.data.16 = 0 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameterOffset_boundingBoxMin = -1 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxParameterOffset_boundingBoxMax = -1 [number]
+data[1].equipment.cursorConfig.subFxConfig.vfxResourceReferences <userdata> {"meshes":[],"models":[],"jointCollections":[]}
+data[1].equipment.cursorConfig.subFxConfig.vfxResourceReferences.meshes <userdata> []
+data[1].equipment.cursorConfig.subFxConfig.vfxResourceReferences.models <userdata> []
+data[1].equipment.cursorConfig.subFxConfig.vfxResourceReferences.jointCollections <userdata> []
+data[1].equipment.cursorConfig.defaultCursorStaticModel = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorConfig.defaultCursorSkinnedModel = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorConfig.defaultCursorVfx = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorConfig.requiredEnergySourceDistance = 0.0 [number]
+data[1].equipment.cursorConfig.requiredEnergyAmount = 0.0 [number]
+data[1].equipment.cursorModel = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorSkinnedModel = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cursorVfx = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.cameraDistanceOverride <userdata> {"distance":"Near","override":false}
+data[1].equipment.cameraDistanceOverride.distance = Near [string]
+data[1].equipment.cameraDistanceOverride.override = false [boolean]
+data[1].equipment.buildingCameraMode = Free [string]
+data[1].equipment.defaultVerticalPlacementOffset = 0.0 [number]
+data[1].equipment.maxTiltAngle = 180.0 [number]
+data[1].equipment.restrictDistance = true [boolean]
+data[1].equipment.directionalDistances = false [boolean]
+data[1].equipment.maxDistance = 8.0 [number]
+data[1].equipment.maxHorizontalDistance = 8.0 [number]
+data[1].equipment.minVerticalRelativeHeight = -1.0 [number]
+data[1].equipment.maxVerticalRelativeHeight = 1.0 [number]
+data[1].equipment.forceClampCursorToDistance = false [boolean]
+data[1].equipment.placedEntity = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.placementAABBmin <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.placementAABBmin.x = 0.0 [number]
+data[1].equipment.placementAABBmin.y = 0.0 [number]
+data[1].equipment.placementAABBmin.z = 0.0 [number]
+data[1].equipment.placementAABBmax <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.placementAABBmax.x = 0.0 [number]
+data[1].equipment.placementAABBmax.y = 0.0 [number]
+data[1].equipment.placementAABBmax.z = 0.0 [number]
+data[1].equipment.snappingAABBmin <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.snappingAABBmin.x = 0.0 [number]
+data[1].equipment.snappingAABBmin.y = 0.0 [number]
+data[1].equipment.snappingAABBmin.z = 0.0 [number]
+data[1].equipment.snappingAABBmax <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.snappingAABBmax.x = 0.0 [number]
+data[1].equipment.snappingAABBmax.y = 0.0 [number]
+data[1].equipment.snappingAABBmax.z = 0.0 [number]
+data[1].equipment.placementColliders <userdata> []
+data[1].equipment.placementNoBuildZones <userdata> {"shapes":[]}
+data[1].equipment.placementNoBuildZones.shapes <userdata> []
+data[1].equipment.placementWaterEntityType = None [string]
+data[1].equipment.appliedBuff = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.allowPlacementBelowFog = false [boolean]
+data[1].equipment.checkInhibitBuild = Strict [string]
+data[1].equipment.buildZoneRequired = true [boolean]
+data[1].equipment.requiresAltarSlot = false [boolean]
+data[1].equipment.requiredCraftingIngredients <userdata> []
+data[1].equipment.placedEntityLocalSpawnVelocity <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.placedEntityLocalSpawnVelocity.x = 0.0 [number]
+data[1].equipment.placedEntityLocalSpawnVelocity.y = 0.0 [number]
+data[1].equipment.placedEntityLocalSpawnVelocity.z = 0.0 [number]
+data[1].equipment.placementConsume = true [boolean]
+data[1].equipment.voxelData <userdata> {"isBuildingVoxel":false,"placeVoxelMaterial":"00000000-0000-0000-0000-000000000000","placeVoxelMaterialId":0}
+data[1].equipment.voxelData.isBuildingVoxel = false [boolean]
+data[1].equipment.voxelData.placeVoxelMaterial = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.voxelData.placeVoxelMaterialId = 0 [number]
+data[1].equipment.voxelObject = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.terrainVoxelObject = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.voxelSnappingConfig <userdata> {"snapBoxOffsetMin":{"x":0,"y":0,"z":0},"snapBoxOffsetMax":{"x":0,"y":0,"z":0},"basementHeight":0}
+data[1].equipment.voxelSnappingConfig.snapBoxOffsetMin <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.voxelSnappingConfig.snapBoxOffsetMin.x = 0 [number]
+data[1].equipment.voxelSnappingConfig.snapBoxOffsetMin.y = 0 [number]
+data[1].equipment.voxelSnappingConfig.snapBoxOffsetMin.z = 0 [number]
+data[1].equipment.voxelSnappingConfig.snapBoxOffsetMax <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.voxelSnappingConfig.snapBoxOffsetMax.x = 0 [number]
+data[1].equipment.voxelSnappingConfig.snapBoxOffsetMax.y = 0 [number]
+data[1].equipment.voxelSnappingConfig.snapBoxOffsetMax.z = 0 [number]
+data[1].equipment.voxelSnappingConfig.basementHeight = 0 [number]
+data[1].equipment.voxelBlueprintConfig = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.voxelBlueprintMaterialPool = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.voxelObjectMaterialOverride = -1 [number]
+data[1].equipment.visualModels <userdata> []
+data[1].equipment.gliderConfig <userdata> {"accelerationForward":1,"airResistanceLongitudinal":0.20000000298023224,"airResistanceLateral":1.850000023841858,"airResistanceVertical":0.800000011920929,"yawAngleSpeed":70,"pitchAngleSpeed":70,"rollAngleSpeed":145,"updraftStrengthChargeStartValue":0.20000000298023224}
+data[1].equipment.gliderConfig.accelerationForward = 1.0 [number]
+data[1].equipment.gliderConfig.airResistanceLongitudinal = 0.20000000298023 [number]
+data[1].equipment.gliderConfig.airResistanceLateral = 1.8500000238419 [number]
+data[1].equipment.gliderConfig.airResistanceVertical = 0.80000001192093 [number]
+data[1].equipment.gliderConfig.yawAngleSpeed = 70.0 [number]
+data[1].equipment.gliderConfig.pitchAngleSpeed = 70.0 [number]
+data[1].equipment.gliderConfig.rollAngleSpeed = 145.0 [number]
+data[1].equipment.gliderConfig.updraftStrengthChargeStartValue = 0.20000000298023 [number]
+data[1].equipment.overgrowthConfig <userdata> {"overgrowthId":{"value":0},"material":"00000000-0000-0000-0000-000000000000"}
+data[1].equipment.overgrowthConfig.overgrowthId <userdata> {"value":0}
+data[1].equipment.overgrowthConfig.overgrowthId.value = 0 [number]
+data[1].equipment.overgrowthConfig.material = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.terraformingType = Remove [string]
+data[1].equipment.equipmentEntityModelSetup <userdata> {"model":"00000000-0000-0000-0000-000000000000","animation":"00000000-0000-0000-0000-000000000000","offset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"isSet":false}
+data[1].equipment.equipmentEntityModelSetup.model = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.equipmentEntityModelSetup.animation = 00000000-0000-0000-0000-000000000000 [string]
+data[1].equipment.equipmentEntityModelSetup.offset <userdata> {"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}}
+data[1].equipment.equipmentEntityModelSetup.offset.localOffset <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.equipmentEntityModelSetup.offset.localOffset.x = 0.0 [number]
+data[1].equipment.equipmentEntityModelSetup.offset.localOffset.y = 0.0 [number]
+data[1].equipment.equipmentEntityModelSetup.offset.localOffset.z = 0.0 [number]
+data[1].equipment.equipmentEntityModelSetup.offset.worldOffset <userdata> {"x":0,"y":0,"z":0}
+data[1].equipment.equipmentEntityModelSetup.offset.worldOffset.x = 0.0 [number]
+data[1].equipment.equipmentEntityModelSetup.offset.worldOffset.y = 0.0 [number]
+data[1].equipment.equipmentEntityModelSetup.offset.worldOffset.z = 0.0 [number]
+data[1].equipment.equipmentEntityModelSetup.offset.orientationOffset <userdata> {"x":0,"y":0,"z":0,"w":1}
+data[1].equipment.equipmentEntityModelSetup.offset.orientationOffset.x = 0.0 [number]
+data[1].equipment.equipmentEntityModelSetup.offset.orientationOffset.y = 0.0 [number]
+data[1].equipment.equipmentEntityModelSetup.offset.orientationOffset.z = 0.0 [number]
+data[1].equipment.equipmentEntityModelSetup.offset.orientationOffset.w = 1.0 [number]
+data[1].equipment.equipmentEntityModelSetup.isSet = false [boolean]
+data[1].sequences <userdata> []
+data[1].pidEntity = 00000000-0000-0000-0000-000000000000 [string]
+data[1].exchangeOnBroken = 00000000-0000-0000-0000-000000000000 [string]
+data[1].iconImage = 00000000-0000-0000-0000-000000000000 [string]
+data[1].iconModel = 9423e085-6424-490e-8f1c-bca90a8f8065 [string]
+data[1].iconScene = ee6d1488-cf5c-436c-ae8a-28623e679502 [string]
+data[1].iconRenderOffset <userdata> {"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":-0.05000000074505806,"y":-0.09999997913837433,"z":0},"orientationOffset":{"x":-0.15444493293762207,"y":-0.11044817417860031,"z":-0.026271505281329155,"w":0.981456995010376}}
+data[1].iconRenderOffset.localOffset <userdata> {"x":0,"y":0,"z":0}
+data[1].iconRenderOffset.localOffset.x = 0.0 [number]
+data[1].iconRenderOffset.localOffset.y = 0.0 [number]
+data[1].iconRenderOffset.localOffset.z = 0.0 [number]
+data[1].iconRenderOffset.worldOffset <userdata> {"x":-0.05000000074505806,"y":-0.09999997913837433,"z":0}
+data[1].iconRenderOffset.worldOffset.x = -0.050000000745058 [number]
+data[1].iconRenderOffset.worldOffset.y = -0.099999979138374 [number]
+data[1].iconRenderOffset.worldOffset.z = 0.0 [number]
+data[1].iconRenderOffset.orientationOffset <userdata> {"x":-0.15444493293762207,"y":-0.11044817417860031,"z":-0.026271505281329155,"w":0.981456995010376}
+data[1].iconRenderOffset.orientationOffset.x = -0.15444493293762 [number]
+data[1].iconRenderOffset.orientationOffset.y = -0.1104481741786 [number]
+data[1].iconRenderOffset.orientationOffset.z = -0.026271505281329 [number]
+data[1].iconRenderOffset.orientationOffset.w = 0.98145699501038 [number]
+data[1].iconRenderCookingScale = 1.0 [number]
+data[1].iconRenderGlobalScale = 1.0 [number]
+data[1].overrideSceneExposure <userdata> {"enable":false,"exposure":0}
+data[1].overrideSceneExposure.enable = false [boolean]
+data[1].overrideSceneExposure.exposure = 0.0 [number]
+data[1].fitToItemModelBoundingBox = false [boolean]
+data[1].flags <userdata> ["HasKnowledgeUnlocks"]
+data[1].flags.1 = HasKnowledgeUnlocks [string]
+data[1].overrideKnowledgeGeneration = false [boolean]
+data[1].generateKnowledge <userdata> []
+data[1].tags <userdata> [{"tag":"a26d96de-d115-4bd5-abbb-e8ca5abc9809","nominator":1,"denominator":1}]
+data[1].tags.1 <userdata> {"tag":"a26d96de-d115-4bd5-abbb-e8ca5abc9809","nominator":1,"denominator":1}
+data[1].tags.1.tag = a26d96de-d115-4bd5-abbb-e8ca5abc9809 [string]
+data[1].tags.1.nominator = 1 [number]
+data[1].tags.1.denominator = 1 [number]
+data[1].uiValues <userdata> []
+data[1].uiBuffValues <userdata> []
+data[1].impactValues <userdata> {"simple":[],"scaled":[]}
+data[1].impactValues.simple <userdata> []
+data[1].impactValues.scaled <userdata> []
+data[1].perkReferences <userdata> ["00000000-0000-0000-0000-000000000000","00000000-0000-0000-0000-000000000000","00000000-0000-0000-0000-000000000000","00000000-0000-0000-0000-000000000000","00000000-0000-0000-0000-000000000000"]
+data[1].perkReferences.1 = 00000000-0000-0000-0000-000000000000 [string]
+data[1].perkReferences.2 = 00000000-0000-0000-0000-000000000000 [string]
+data[1].perkReferences.3 = 00000000-0000-0000-0000-000000000000 [string]
+data[1].perkReferences.4 = 00000000-0000-0000-0000-000000000000 [string]
+data[1].perkReferences.5 = 00000000-0000-0000-0000-000000000000 [string]
+data[1].perkIds <userdata> [{"value":0},{"value":0},{"value":0},{"value":0},{"value":0}]
+data[1].perkIds.1 <userdata> {"value":0}
+data[1].perkIds.1.value = 0 [number]
+data[1].perkIds.2 <userdata> {"value":0}
+data[1].perkIds.2.value = 0 [number]
+data[1].perkIds.3 <userdata> {"value":0}
+data[1].perkIds.3.value = 0 [number]
+data[1].perkIds.4 <userdata> {"value":0}
+data[1].perkIds.4.value = 0 [number]
+data[1].perkIds.5 <userdata> {"value":0}
+data[1].perkIds.5.value = 0 [number]
+data[1].itemTargetingSetup <userdata> {"targetingRange":24,"isSet":false}
+data[1].itemTargetingSetup.targetingRange = 24.0 [number]
+data[1].itemTargetingSetup.isSet = false [boolean]
+data[1].itemLevelRange <userdata> {"minLevel":33,"maxLevel":33}
+data[1].itemLevelRange.minLevel = 33 [number]
+data[1].itemLevelRange.maxLevel = 33 [number]
+data[1].damageSetup <userdata> {"speedMod":1,"dmgMod":1,"distribution":{"physicalCutDamage":0,"physicalPierceDamage":0,"physicalBluntDamage":0,"magicalFireDamage":0,"magicalIceDamage":0,"magicalFogDamage":0,"magicalLightningDamage":0,"healing":0,"poisonDamage":0,"woodDamage":0,"stoneDamage":0,"metalDamage":0,"explosionDamage":0},"isSet":false}
+data[1].damageSetup.speedMod = 1.0 [number]
+data[1].damageSetup.dmgMod = 1.0 [number]
+data[1].damageSetup.distribution <userdata> {"physicalCutDamage":0,"physicalPierceDamage":0,"physicalBluntDamage":0,"magicalFireDamage":0,"magicalIceDamage":0,"magicalFogDamage":0,"magicalLightningDamage":0,"healing":0,"poisonDamage":0,"woodDamage":0,"stoneDamage":0,"metalDamage":0,"explosionDamage":0}
+data[1].damageSetup.distribution.physicalCutDamage = 0.0 [number]
+data[1].damageSetup.distribution.physicalPierceDamage = 0.0 [number]
+data[1].damageSetup.distribution.physicalBluntDamage = 0.0 [number]
+data[1].damageSetup.distribution.magicalFireDamage = 0.0 [number]
+data[1].damageSetup.distribution.magicalIceDamage = 0.0 [number]
+data[1].damageSetup.distribution.magicalFogDamage = 0.0 [number]
+data[1].damageSetup.distribution.magicalLightningDamage = 0.0 [number]
+data[1].damageSetup.distribution.healing = 0.0 [number]
+data[1].damageSetup.distribution.poisonDamage = 0.0 [number]
+data[1].damageSetup.distribution.woodDamage = 0 [number]
+data[1].damageSetup.distribution.stoneDamage = 0 [number]
+data[1].damageSetup.distribution.metalDamage = 0 [number]
+data[1].damageSetup.distribution.explosionDamage = 0 [number]
+data[1].damageSetup.isSet = false [boolean]
+data[1].armorSetup <userdata> {"distribution":{"physical":0,"blunt":0,"pierce":0,"cut":0,"magical":0,"fire":0,"ice":0,"fog":0,"lightning":0},"isSet":false}
+data[1].armorSetup.distribution <userdata> {"physical":0,"blunt":0,"pierce":0,"cut":0,"magical":0,"fire":0,"ice":0,"fog":0,"lightning":0}
+data[1].armorSetup.distribution.physical = 0.0 [number]
+data[1].armorSetup.distribution.blunt = 0.0 [number]
+data[1].armorSetup.distribution.pierce = 0.0 [number]
+data[1].armorSetup.distribution.cut = 0.0 [number]
+data[1].armorSetup.distribution.magical = 0.0 [number]
+data[1].armorSetup.distribution.fire = 0.0 [number]
+data[1].armorSetup.distribution.ice = 0.0 [number]
+data[1].armorSetup.distribution.fog = 0.0 [number]
+data[1].armorSetup.distribution.lightning = 0.0 [number]
+data[1].armorSetup.isSet = false [boolean]
+data[1].fuelSetup <userdata> {"burnTime":{"value":0},"energyOutput":0,"isSet":false}
+data[1].fuelSetup.burnTime <userdata> {"value":0}
+data[1].fuelSetup.burnTime.value = 0 [number]
+data[1].fuelSetup.energyOutput = 0 [number]
+data[1].fuelSetup.isSet = false [boolean]
+data[1].blockSetup <userdata> {"quality":0,"isSet":false}
+data[1].blockSetup.quality = 0.0 [number]
+data[1].blockSetup.isSet = false [boolean]
+data[1].scaledCostSetup <userdata> {"staminaMod":0,"isSet":false}
+data[1].scaledCostSetup.staminaMod = 0.0 [number]
+data[1].scaledCostSetup.isSet = false [boolean]
+data[1].commerceLink <userdata> {"product":"00000000-0000-0000-0000-000000000000","id":{"value":{"value":0}},"isSet":false}
+data[1].commerceLink.product = 00000000-0000-0000-0000-000000000000 [string]
+data[1].commerceLink.id <userdata> {"value":{"value":0}}
+data[1].commerceLink.id.value <userdata> {"value":0}
+data[1].commerceLink.id.value.value = 0 [number]
+data[1].commerceLink.isSet = false [boolean]
+data[1].commerceRedeemLink <userdata> {"product":"00000000-0000-0000-0000-000000000000","id":{"value":{"value":0}},"isSet":false}
+data[1].commerceRedeemLink.product = 00000000-0000-0000-0000-000000000000 [string]
+data[1].commerceRedeemLink.id <userdata> {"value":{"value":0}}
+data[1].commerceRedeemLink.id.value <userdata> {"value":0}
+data[1].commerceRedeemLink.id.value.value = 0 [number]
+data[1].commerceRedeemLink.isSet = false [boolean]
+data[1].permissionSetup <userdata> {"permissions":[],"isSet":false}
+data[1].permissionSetup.permissions <userdata> []
+data[1].permissionSetup.isSet = false [boolean]
+data[1].itemColorCombinationSetup <userdata> {"color0":4294967295,"color1":4294967295,"color2":4294967295,"isSet":false}
+data[1].itemColorCombinationSetup.color0 = 4294967295 [number]
+data[1].itemColorCombinationSetup.color1 = 4294967295 [number]
+data[1].itemColorCombinationSetup.color2 = 4294967295 [number]
+data[1].itemColorCombinationSetup.isSet = false [boolean]
+data[1].collectionInfo <userdata> {"isOverrideModelSet":false,"overrideModel":"00000000-0000-0000-0000-000000000000","overrideModelOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"categories":[]}
+data[1].collectionInfo.isOverrideModelSet = false [boolean]
+data[1].collectionInfo.overrideModel = 00000000-0000-0000-0000-000000000000 [string]
+data[1].collectionInfo.overrideModelOffset <userdata> {"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}}
+data[1].collectionInfo.overrideModelOffset.localOffset <userdata> {"x":0,"y":0,"z":0}
+data[1].collectionInfo.overrideModelOffset.localOffset.x = 0.0 [number]
+data[1].collectionInfo.overrideModelOffset.localOffset.y = 0.0 [number]
+data[1].collectionInfo.overrideModelOffset.localOffset.z = 0.0 [number]
+data[1].collectionInfo.overrideModelOffset.worldOffset <userdata> {"x":0,"y":0,"z":0}
+data[1].collectionInfo.overrideModelOffset.worldOffset.x = 0.0 [number]
+data[1].collectionInfo.overrideModelOffset.worldOffset.y = 0.0 [number]
+data[1].collectionInfo.overrideModelOffset.worldOffset.z = 0.0 [number]
+data[1].collectionInfo.overrideModelOffset.orientationOffset <userdata> {"x":0,"y":0,"z":0,"w":1}
+data[1].collectionInfo.overrideModelOffset.orientationOffset.x = 0.0 [number]
+data[1].collectionInfo.overrideModelOffset.orientationOffset.y = 0.0 [number]
+data[1].collectionInfo.overrideModelOffset.orientationOffset.z = 0.0 [number]
+data[1].collectionInfo.overrideModelOffset.orientationOffset.w = 1.0 [number]
+data[1].collectionInfo.categories <userdata> []
+data[1].comfortSetup <userdata> {"comfortAmount":0,"isSet":false}
+data[1].comfortSetup.comfortAmount = 0 [number]
+data[1].comfortSetup.isSet = false [boolean]
+data[1].gemSlotOverride <userdata> {"isSet":false}
+data[1].gemSlotOverride.isSet = false [boolean]
+data[1].materialInteraction <userdata> {"config":{"materialRef":"00000000-0000-0000-0000-000000000000","materialId":{"value":0},"destroyOnSurfaceHit":true,"spawnOnSurfaceHit":"00000000-0000-0000-0000-000000000000","spawnOnInMaterialHit":"00000000-0000-0000-0000-000000000000"},"isSet":false}
+data[1].materialInteraction.config <userdata> {"materialRef":"00000000-0000-0000-0000-000000000000","materialId":{"value":0},"destroyOnSurfaceHit":true,"spawnOnSurfaceHit":"00000000-0000-0000-0000-000000000000","spawnOnInMaterialHit":"00000000-0000-0000-0000-000000000000"}
+data[1].materialInteraction.config.materialRef = 00000000-0000-0000-0000-000000000000 [string]
+data[1].materialInteraction.config.materialId <userdata> {"value":0}
+Resource 2: guid=00106bd2-9e3b-45e0-8370-1c225d4fdca4, type=Type: 000001C2C680FB08, part_index=nil
+data[2] <userdata> {"itemId":{"value":3303276493},"objectId":"00106bd2-9e3b-45e0-8370-1c225d4fdca4","maxStackSize":1,"generateRarity":false,"rarity":"Uncommon","disableRarityGeneration":[],"randomLootStackRange":{"minStackSize":1,"maxStackSize":1},"overridePickupModels":[],"overridePickupEntity":"00000000-0000-0000-0000-000000000000","pickupFx":"00000000-0000-0000-0000-000000000000","name":"8cd0ab88-01a8-4842-9adf-63b718efbfdf","caption":"00000000-0000-0000-0000-000000000000","description":"4367197f-199b-41b6-9e9a-c7e9ed00d189","lore":"00000000-0000-0000-0000-000000000000","acquisitionHint":"00000000-0000-0000-0000-000000000000","uiActionHints":{"primaryAction":"00000000-0000-0000-0000-000000000000","secondaryAction":"00000000-0000-0000-0000-000000000000","tertiaryAction":"00000000-0000-0000-0000-000000000000","tertiaryGameplayAction":"Count","alwaysShow":false},"category":"Equipment","ammunitionType":"Invalid","weaponCategoryReference":"00000000-0000-0000-0000-000000000000","itemClassAlignment":"Mage","midiInstrumentType":"None","equipSfx":"2199985a-7b63-436b-b32f-3451b4b1c381","unequipSfx":"47933d0a-ec09-4274-a05b-88eb834100e4","equipment":{"slot":"Armour_Arms","repeatActionWhenPressed":false,"itemSequencesEntityTag":"00000000-0000-0000-0000-000000000000","blendShapeMask":[],"hideMask":[],"disableMask":[],"waterUsability":{"outsideBuildzone":{"allowOutsideWater":true,"allowInsideWater":true},"insideBuildzone":{"allowOutsideWater":true,"allowInsideWater":true}},"impactEntity":"7100f7c2-480f-44da-a354-91c08786011b","program":"00000000-0000-0000-0000-000000000000","visualEntity":"00000000-0000-0000-0000-000000000000","visualModel":"d255bdbc-f96c-4540-be93-e37996e6f1dc","primaryAnimationSet":"None","secondaryAnimationSet":"None","crosshairType":"None","cursorConfig":{"customCursorEntity":"00000000-0000-0000-0000-000000000000","autoCenterPivot":true,"pivotOffset":{"x":0,"y":0,"z":0},"voxelGridSnappingDirective":"ForceVoxelCenterWhenSmallerThanVoxel","snapToCenterWhenSmallerThanVoxel":true,"allowSnapToSnappingBoxes":false,"translationConfig":{"defaultSnapping":false,"canToggleSnapping":true},"axisRotationX":{"automatic":"Free","manual":"Free"},"axisRotationY":{"automatic":"Free","manual":"Free"},"axisRotationZ":{"automatic":"Free","manual":"Free"},"smoothOutTerrainNormal":false,"alwaysFacePlayer":false,"addRandomYawAngleOffset":false,"primaryActionConfig":{"hideWhenUnused":false,"snapPositionToAddableVoxel":false,"snapPositionToRemovableVoxel":false},"attachAngleConfig":{"ceilingAngle":"Disabled","wallAngle":"Disabled","floorAngle":"Narrow","defaultAttachDirection":"Floor","secondaryAttachDirection":"Wall","hasSecondaryAttachDirection":false,"forceUprightNormal":false},"checkRequiredMaterialsOnPrimaryAction":true,"secondaryActionConfig":{"hideWhenUnused":false,"snapPositionToAddableVoxel":false,"snapPositionToRemovableVoxel":false},"checkRequiredMaterialsOnSecondaryAction":false,"useSphereCast":false,"colliderMask":["World","Solid","Interaction"],"collisionCheckFlags":[],"preferPositionInsideWater":false,"allowWaterPlacement":true,"keepSnappedToPlane":false,"checkBuildZoneEnemies":false,"checkSurfaceTopology":false,"allowedVoxels":[],"highlightHoveredEntity":false,"showVoxelBlock":false,"addFxConfig":{"loopedSfx":"00000000-0000-0000-0000-000000000000","oneShotSfx":"00000000-0000-0000-0000-000000000000","oneShotVfx":"00000000-0000-0000-0000-000000000000","oneShotVfxOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"vfxParameters":{"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"vfxParameterOffset_boundingBoxMin":-1,"vfxParameterOffset_boundingBoxMax":-1,"vfxResourceReferences":{"meshes":[],"models":[],"jointCollections":[]}},"subFxConfig":{"loopedSfx":"00000000-0000-0000-0000-000000000000","oneShotSfx":"00000000-0000-0000-0000-000000000000","oneShotVfx":"00000000-0000-0000-0000-000000000000","oneShotVfxOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"vfxParameters":{"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"vfxParameterOffset_boundingBoxMin":-1,"vfxParameterOffset_boundingBoxMax":-1,"vfxResourceReferences":{"meshes":[],"models":[],"jointCollections":[]}},"defaultCursorStaticModel":"00000000-0000-0000-0000-000000000000","defaultCursorSkinnedModel":"00000000-0000-0000-0000-000000000000","defaultCursorVfx":"00000000-0000-0000-0000-000000000000","requiredEnergySourceDistance":0,"requiredEnergyAmount":0},"cursorModel":"00000000-0000-0000-0000-000000000000","cursorSkinnedModel":"00000000-0000-0000-0000-000000000000","cursorVfx":"00000000-0000-0000-0000-000000000000","cameraDistanceOverride":{"distance":"Near","override":false},"buildingCameraMode":"Free","defaultVerticalPlacementOffset":0,"maxTiltAngle":180,"restrictDistance":true,"directionalDistances":false,"maxDistance":8,"maxHorizontalDistance":8,"minVerticalRelativeHeight":-1,"maxVerticalRelativeHeight":1,"forceClampCursorToDistance":false,"placedEntity":"00000000-0000-0000-0000-000000000000","placementAABBmin":{"x":0,"y":0,"z":0},"placementAABBmax":{"x":0,"y":0,"z":0},"snappingAABBmin":{"x":0,"y":0,"z":0},"snappingAABBmax":{"x":0,"y":0,"z":0},"placementColliders":[],"placementNoBuildZones":{"shapes":[]},"placementWaterEntityType":"None","appliedBuff":"00000000-0000-0000-0000-000000000000","allowPlacementBelowFog":false,"checkInhibitBuild":"Strict","buildZoneRequired":true,"requiresAltarSlot":false,"requiredCraftingIngredients":[],"placedEntityLocalSpawnVelocity":{"x":0,"y":0,"z":0},"placementConsume":true,"voxelData":{"isBuildingVoxel":false,"placeVoxelMaterial":"00000000-0000-0000-0000-000000000000","placeVoxelMaterialId":0},"voxelObject":"00000000-0000-0000-0000-000000000000","terrainVoxelObject":"00000000-0000-0000-0000-000000000000","voxelSnappingConfig":{"snapBoxOffsetMin":{"x":0,"y":0,"z":0},"snapBoxOffsetMax":{"x":0,"y":0,"z":0},"basementHeight":0},"voxelBlueprintConfig":"00000000-0000-0000-0000-000000000000","voxelBlueprintMaterialPool":"00000000-0000-0000-0000-000000000000","voxelObjectMaterialOverride":-1,"visualModels":[],"gliderConfig":{"accelerationForward":1,"airResistanceLongitudinal":0.20000000298023224,"airResistanceLateral":1.850000023841858,"airResistanceVertical":0.800000011920929,"yawAngleSpeed":70,"pitchAngleSpeed":70,"rollAngleSpeed":145,"updraftStrengthChargeStartValue":0.20000000298023224},"overgrowthConfig":{"overgrowthId":{"value":0},"material":"00000000-0000-0000-0000-000000000000"},"terraformingType":"Remove","equipmentEntityModelSetup":{"model":"00000000-0000-0000-0000-000000000000","animation":"00000000-0000-0000-0000-000000000000","offset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"isSet":false}},"sequences":[],"pidEntity":"7de1dfd2-743a-4670-a855-aab3275f17c4","exchangeOnBroken":"00000000-0000-0000-0000-000000000000","iconImage":"00000000-0000-0000-0000-000000000000","iconModel":"d255bdbc-f96c-4540-be93-e37996e6f1dc","iconScene":"382bb142-52f5-488b-bc6e-f37127c24fe0","iconRenderOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"iconRenderCookingScale":1,"iconRenderGlobalScale":1,"overrideSceneExposure":{"enable":false,"exposure":0},"fitToItemModelBoundingBox":false,"flags":["HasPIDE","IsNonTintable","IsSalvageable"],"overrideKnowledgeGeneration":false,"generateKnowledge":["Pickup"],"tags":[{"tag":"91ae130c-8cfb-4eaa-8c03-35323fd5a123","nominator":1,"denominator":103},{"tag":"a50f38f9-c8d6-4aa2-b890-4aac14021073","nominator":1,"denominator":1}],"uiValues":[{"locaId":{"value":2298204525},"valueFormat":"Normal","value":5,"scaleData":{"scaleFactor":0,"function":"None","sourceEntityType":"Self","scalingInputValue":"00000000-0000-0000-0000-000000000000"},"isSigned":true,"isScaled":false},{"locaId":{"value":2710058291},"valueFormat":"Percentage","value":2,"scaleData":{"scaleFactor":0,"function":"None","sourceEntityType":"Self","scalingInputValue":"00000000-0000-0000-0000-000000000000"},"isSigned":true,"isScaled":false}],"uiBuffValues":[],"impactValues":{"simple":[MappedVariantValue: 000001C2C4783458,MappedVariantValue: 000001C2C4783698,MappedVariantValue: 000001C2C4783DB8],"scaled":[]},"perkReferences":["bed0584d-697b-40ed-9152-33098ccd6744","d7f8ed1f-4749-4a84-8921-bce598f3c63f","bb803ba3-1729-4b42-aa19-6ca1d76489e7","3215c04a-1d1d-437d-8272-b6d36f9eb4fd","18f002b8-0e00-4f77-960e-d519a6a8a08d"],"perkIds":[{"value":2897751956},{"value":2668769973},{"value":980605900},{"value":3643737671},{"value":4255551932}],"itemTargetingSetup":{"targetingRange":24,"isSet":false},"itemLevelRange":{"minLevel":5,"maxLevel":5},"damageSetup":{"speedMod":1,"dmgMod":1,"distribution":{"physicalCutDamage":0,"physicalPierceDamage":0,"physicalBluntDamage":0,"magicalFireDamage":0,"magicalIceDamage":0,"magicalFogDamage":0,"magicalLightningDamage":0,"healing":0,"poisonDamage":0,"woodDamage":0,"stoneDamage":0,"metalDamage":0,"explosionDamage":0},"isSet":false},"armorSetup":{"distribution":{"physical":0.019999999552965164,"blunt":0,"pierce":0,"cut":0,"magical":0.03999999910593033,"fire":0,"ice":0,"fog":0,"lightning":0},"isSet":true},"fuelSetup":{"burnTime":{"value":0},"energyOutput":0,"isSet":false},"blockSetup":{"quality":0,"isSet":false},"scaledCostSetup":{"staminaMod":0,"isSet":false},"commerceLink":{"product":"00000000-0000-0000-0000-000000000000","id":{"value":{"value":0}},"isSet":false},"commerceRedeemLink":{"product":"00000000-0000-0000-0000-000000000000","id":{"value":{"value":0}},"isSet":false},"permissionSetup":{"permissions":[],"isSet":false},"itemColorCombinationSetup":{"color0":4294967295,"color1":4294967295,"color2":4294967295,"isSet":false},"collectionInfo":{"isOverrideModelSet":false,"overrideModel":"00000000-0000-0000-0000-000000000000","overrideModelOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"categories":[{"value":383096521}]},"comfortSetup":{"comfortAmount":0,"isSet":false},"gemSlotOverride":{"isSet":false},"materialInteraction":{"config":{"materialRef":"00000000-0000-0000-0000-000000000000","materialId":{"value":0},"destroyOnSurfaceHit":true,"spawnOnSurfaceHit":"00000000-0000-0000-0000-000000000000","spawnOnInMaterialHit":"00000000-0000-0000-0000-000000000000"},"isSet":false},"growthInfo":{"hasGrowthInfo":false,"submergedRequirementMin":0,"submergedRequirementMax":0},"fishableItemSetup":{"isSet":false,"minigameEntity":"00000000-0000-0000-0000-000000000000"},"baitItemSetup":{"isSet":false,"trashLootTable":"00000000-0000-0000-0000-000000000000","fishBooster":[]},"fishingRodItemSetup":{"isSet":false,"shoeWeightFactor":1,"trashWeightFactor":1},"debugName":"Armor_T1_Mage_Wizard_DPS_Arms"}
+data[2].itemId <userdata> {"value":3303276493}
+data[2].itemId.value = 3303276493 [number]
+data[2].objectId = 00106bd2-9e3b-45e0-8370-1c225d4fdca4 [string]
+data[2].maxStackSize = 1 [number]
+data[2].generateRarity = false [boolean]
+data[2].rarity = Uncommon [string]
+data[2].disableRarityGeneration <userdata> []
+data[2].randomLootStackRange <userdata> {"minStackSize":1,"maxStackSize":1}
+data[2].randomLootStackRange.minStackSize = 1 [number]
+data[2].randomLootStackRange.maxStackSize = 1 [number]
+data[2].overridePickupModels <userdata> []
+data[2].overridePickupEntity = 00000000-0000-0000-0000-000000000000 [string]
+data[2].pickupFx = 00000000-0000-0000-0000-000000000000 [string]
+data[2].name = 8cd0ab88-01a8-4842-9adf-63b718efbfdf [string]
+data[2].caption = 00000000-0000-0000-0000-000000000000 [string]
+data[2].description = 4367197f-199b-41b6-9e9a-c7e9ed00d189 [string]
+data[2].lore = 00000000-0000-0000-0000-000000000000 [string]
+data[2].acquisitionHint = 00000000-0000-0000-0000-000000000000 [string]
+data[2].uiActionHints <userdata> {"primaryAction":"00000000-0000-0000-0000-000000000000","secondaryAction":"00000000-0000-0000-0000-000000000000","tertiaryAction":"00000000-0000-0000-0000-000000000000","tertiaryGameplayAction":"Count","alwaysShow":false}
+data[2].uiActionHints.primaryAction = 00000000-0000-0000-0000-000000000000 [string]
+data[2].uiActionHints.secondaryAction = 00000000-0000-0000-0000-000000000000 [string]
+data[2].uiActionHints.tertiaryAction = 00000000-0000-0000-0000-000000000000 [string]
+data[2].uiActionHints.tertiaryGameplayAction = Count [string]
+data[2].uiActionHints.alwaysShow = false [boolean]
+data[2].category = Equipment [string]
+data[2].ammunitionType = Invalid [string]
+data[2].weaponCategoryReference = 00000000-0000-0000-0000-000000000000 [string]
+data[2].itemClassAlignment = Mage [string]
+data[2].midiInstrumentType = None [string]
+data[2].equipSfx = 2199985a-7b63-436b-b32f-3451b4b1c381 [string]
+data[2].unequipSfx = 47933d0a-ec09-4274-a05b-88eb834100e4 [string]
+data[2].equipment <userdata> {"slot":"Armour_Arms","repeatActionWhenPressed":false,"itemSequencesEntityTag":"00000000-0000-0000-0000-000000000000","blendShapeMask":[],"hideMask":[],"disableMask":[],"waterUsability":{"outsideBuildzone":{"allowOutsideWater":true,"allowInsideWater":true},"insideBuildzone":{"allowOutsideWater":true,"allowInsideWater":true}},"impactEntity":"7100f7c2-480f-44da-a354-91c08786011b","program":"00000000-0000-0000-0000-000000000000","visualEntity":"00000000-0000-0000-0000-000000000000","visualModel":"d255bdbc-f96c-4540-be93-e37996e6f1dc","primaryAnimationSet":"None","secondaryAnimationSet":"None","crosshairType":"None","cursorConfig":{"customCursorEntity":"00000000-0000-0000-0000-000000000000","autoCenterPivot":true,"pivotOffset":{"x":0,"y":0,"z":0},"voxelGridSnappingDirective":"ForceVoxelCenterWhenSmallerThanVoxel","snapToCenterWhenSmallerThanVoxel":true,"allowSnapToSnappingBoxes":false,"translationConfig":{"defaultSnapping":false,"canToggleSnapping":true},"axisRotationX":{"automatic":"Free","manual":"Free"},"axisRotationY":{"automatic":"Free","manual":"Free"},"axisRotationZ":{"automatic":"Free","manual":"Free"},"smoothOutTerrainNormal":false,"alwaysFacePlayer":false,"addRandomYawAngleOffset":false,"primaryActionConfig":{"hideWhenUnused":false,"snapPositionToAddableVoxel":false,"snapPositionToRemovableVoxel":false},"attachAngleConfig":{"ceilingAngle":"Disabled","wallAngle":"Disabled","floorAngle":"Narrow","defaultAttachDirection":"Floor","secondaryAttachDirection":"Wall","hasSecondaryAttachDirection":false,"forceUprightNormal":false},"checkRequiredMaterialsOnPrimaryAction":true,"secondaryActionConfig":{"hideWhenUnused":false,"snapPositionToAddableVoxel":false,"snapPositionToRemovableVoxel":false},"checkRequiredMaterialsOnSecondaryAction":false,"useSphereCast":false,"colliderMask":["World","Solid","Interaction"],"collisionCheckFlags":[],"preferPositionInsideWater":false,"allowWaterPlacement":true,"keepSnappedToPlane":false,"checkBuildZoneEnemies":false,"checkSurfaceTopology":false,"allowedVoxels":[],"highlightHoveredEntity":false,"showVoxelBlock":false,"addFxConfig":{"loopedSfx":"00000000-0000-0000-0000-000000000000","oneShotSfx":"00000000-0000-0000-0000-000000000000","oneShotVfx":"00000000-0000-0000-0000-000000000000","oneShotVfxOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"vfxParameters":{"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"vfxParameterOffset_boundingBoxMin":-1,"vfxParameterOffset_boundingBoxMax":-1,"vfxResourceReferences":{"meshes":[],"models":[],"jointCollections":[]}},"subFxConfig":{"loopedSfx":"00000000-0000-0000-0000-000000000000","oneShotSfx":"00000000-0000-0000-0000-000000000000","oneShotVfx":"00000000-0000-0000-0000-000000000000","oneShotVfxOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"vfxParameters":{"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"vfxParameterOffset_boundingBoxMin":-1,"vfxParameterOffset_boundingBoxMax":-1,"vfxResourceReferences":{"meshes":[],"models":[],"jointCollections":[]}},"defaultCursorStaticModel":"00000000-0000-0000-0000-000000000000","defaultCursorSkinnedModel":"00000000-0000-0000-0000-000000000000","defaultCursorVfx":"00000000-0000-0000-0000-000000000000","requiredEnergySourceDistance":0,"requiredEnergyAmount":0},"cursorModel":"00000000-0000-0000-0000-000000000000","cursorSkinnedModel":"00000000-0000-0000-0000-000000000000","cursorVfx":"00000000-0000-0000-0000-000000000000","cameraDistanceOverride":{"distance":"Near","override":false},"buildingCameraMode":"Free","defaultVerticalPlacementOffset":0,"maxTiltAngle":180,"restrictDistance":true,"directionalDistances":false,"maxDistance":8,"maxHorizontalDistance":8,"minVerticalRelativeHeight":-1,"maxVerticalRelativeHeight":1,"forceClampCursorToDistance":false,"placedEntity":"00000000-0000-0000-0000-000000000000","placementAABBmin":{"x":0,"y":0,"z":0},"placementAABBmax":{"x":0,"y":0,"z":0},"snappingAABBmin":{"x":0,"y":0,"z":0},"snappingAABBmax":{"x":0,"y":0,"z":0},"placementColliders":[],"placementNoBuildZones":{"shapes":[]},"placementWaterEntityType":"None","appliedBuff":"00000000-0000-0000-0000-000000000000","allowPlacementBelowFog":false,"checkInhibitBuild":"Strict","buildZoneRequired":true,"requiresAltarSlot":false,"requiredCraftingIngredients":[],"placedEntityLocalSpawnVelocity":{"x":0,"y":0,"z":0},"placementConsume":true,"voxelData":{"isBuildingVoxel":false,"placeVoxelMaterial":"00000000-0000-0000-0000-000000000000","placeVoxelMaterialId":0},"voxelObject":"00000000-0000-0000-0000-000000000000","terrainVoxelObject":"00000000-0000-0000-0000-000000000000","voxelSnappingConfig":{"snapBoxOffsetMin":{"x":0,"y":0,"z":0},"snapBoxOffsetMax":{"x":0,"y":0,"z":0},"basementHeight":0},"voxelBlueprintConfig":"00000000-0000-0000-0000-000000000000","voxelBlueprintMaterialPool":"00000000-0000-0000-0000-000000000000","voxelObjectMaterialOverride":-1,"visualModels":[],"gliderConfig":{"accelerationForward":1,"airResistanceLongitudinal":0.20000000298023224,"airResistanceLateral":1.850000023841858,"airResistanceVertical":0.800000011920929,"yawAngleSpeed":70,"pitchAngleSpeed":70,"rollAngleSpeed":145,"updraftStrengthChargeStartValue":0.20000000298023224},"overgrowthConfig":{"overgrowthId":{"value":0},"material":"00000000-0000-0000-0000-000000000000"},"terraformingType":"Remove","equipmentEntityModelSetup":{"model":"00000000-0000-0000-0000-000000000000","animation":"00000000-0000-0000-0000-000000000000","offset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"isSet":false}}
+data[2].equipment.slot = Armour_Arms [string]
+data[2].equipment.repeatActionWhenPressed = false [boolean]
+data[2].equipment.itemSequencesEntityTag = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.blendShapeMask <userdata> []
+data[2].equipment.hideMask <userdata> []
+data[2].equipment.disableMask <userdata> []
+data[2].equipment.waterUsability <userdata> {"outsideBuildzone":{"allowOutsideWater":true,"allowInsideWater":true},"insideBuildzone":{"allowOutsideWater":true,"allowInsideWater":true}}
+data[2].equipment.waterUsability.outsideBuildzone <userdata> {"allowOutsideWater":true,"allowInsideWater":true}
+data[2].equipment.waterUsability.outsideBuildzone.allowOutsideWater = true [boolean]
+data[2].equipment.waterUsability.outsideBuildzone.allowInsideWater = true [boolean]
+data[2].equipment.waterUsability.insideBuildzone <userdata> {"allowOutsideWater":true,"allowInsideWater":true}
+data[2].equipment.waterUsability.insideBuildzone.allowOutsideWater = true [boolean]
+data[2].equipment.waterUsability.insideBuildzone.allowInsideWater = true [boolean]
+data[2].equipment.impactEntity = 7100f7c2-480f-44da-a354-91c08786011b [string]
+data[2].equipment.program = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.visualEntity = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.visualModel = d255bdbc-f96c-4540-be93-e37996e6f1dc [string]
+data[2].equipment.primaryAnimationSet = None [string]
+data[2].equipment.secondaryAnimationSet = None [string]
+data[2].equipment.crosshairType = None [string]
+data[2].equipment.cursorConfig <userdata> {"customCursorEntity":"00000000-0000-0000-0000-000000000000","autoCenterPivot":true,"pivotOffset":{"x":0,"y":0,"z":0},"voxelGridSnappingDirective":"ForceVoxelCenterWhenSmallerThanVoxel","snapToCenterWhenSmallerThanVoxel":true,"allowSnapToSnappingBoxes":false,"translationConfig":{"defaultSnapping":false,"canToggleSnapping":true},"axisRotationX":{"automatic":"Free","manual":"Free"},"axisRotationY":{"automatic":"Free","manual":"Free"},"axisRotationZ":{"automatic":"Free","manual":"Free"},"smoothOutTerrainNormal":false,"alwaysFacePlayer":false,"addRandomYawAngleOffset":false,"primaryActionConfig":{"hideWhenUnused":false,"snapPositionToAddableVoxel":false,"snapPositionToRemovableVoxel":false},"attachAngleConfig":{"ceilingAngle":"Disabled","wallAngle":"Disabled","floorAngle":"Narrow","defaultAttachDirection":"Floor","secondaryAttachDirection":"Wall","hasSecondaryAttachDirection":false,"forceUprightNormal":false},"checkRequiredMaterialsOnPrimaryAction":true,"secondaryActionConfig":{"hideWhenUnused":false,"snapPositionToAddableVoxel":false,"snapPositionToRemovableVoxel":false},"checkRequiredMaterialsOnSecondaryAction":false,"useSphereCast":false,"colliderMask":["World","Solid","Interaction"],"collisionCheckFlags":[],"preferPositionInsideWater":false,"allowWaterPlacement":true,"keepSnappedToPlane":false,"checkBuildZoneEnemies":false,"checkSurfaceTopology":false,"allowedVoxels":[],"highlightHoveredEntity":false,"showVoxelBlock":false,"addFxConfig":{"loopedSfx":"00000000-0000-0000-0000-000000000000","oneShotSfx":"00000000-0000-0000-0000-000000000000","oneShotVfx":"00000000-0000-0000-0000-000000000000","oneShotVfxOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"vfxParameters":{"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"vfxParameterOffset_boundingBoxMin":-1,"vfxParameterOffset_boundingBoxMax":-1,"vfxResourceReferences":{"meshes":[],"models":[],"jointCollections":[]}},"subFxConfig":{"loopedSfx":"00000000-0000-0000-0000-000000000000","oneShotSfx":"00000000-0000-0000-0000-000000000000","oneShotVfx":"00000000-0000-0000-0000-000000000000","oneShotVfxOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"vfxParameters":{"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"vfxParameterOffset_boundingBoxMin":-1,"vfxParameterOffset_boundingBoxMax":-1,"vfxResourceReferences":{"meshes":[],"models":[],"jointCollections":[]}},"defaultCursorStaticModel":"00000000-0000-0000-0000-000000000000","defaultCursorSkinnedModel":"00000000-0000-0000-0000-000000000000","defaultCursorVfx":"00000000-0000-0000-0000-000000000000","requiredEnergySourceDistance":0,"requiredEnergyAmount":0}
+data[2].equipment.cursorConfig.customCursorEntity = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorConfig.autoCenterPivot = true [boolean]
+data[2].equipment.cursorConfig.pivotOffset <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.cursorConfig.pivotOffset.x = 0.0 [number]
+data[2].equipment.cursorConfig.pivotOffset.y = 0.0 [number]
+data[2].equipment.cursorConfig.pivotOffset.z = 0.0 [number]
+data[2].equipment.cursorConfig.voxelGridSnappingDirective = ForceVoxelCenterWhenSmallerThanVoxel [string]
+data[2].equipment.cursorConfig.snapToCenterWhenSmallerThanVoxel = true [boolean]
+data[2].equipment.cursorConfig.allowSnapToSnappingBoxes = false [boolean]
+data[2].equipment.cursorConfig.translationConfig <userdata> {"defaultSnapping":false,"canToggleSnapping":true}
+data[2].equipment.cursorConfig.translationConfig.defaultSnapping = false [boolean]
+data[2].equipment.cursorConfig.translationConfig.canToggleSnapping = true [boolean]
+data[2].equipment.cursorConfig.axisRotationX <userdata> {"automatic":"Free","manual":"Free"}
+data[2].equipment.cursorConfig.axisRotationX.automatic = Free [string]
+data[2].equipment.cursorConfig.axisRotationX.manual = Free [string]
+data[2].equipment.cursorConfig.axisRotationY <userdata> {"automatic":"Free","manual":"Free"}
+data[2].equipment.cursorConfig.axisRotationY.automatic = Free [string]
+data[2].equipment.cursorConfig.axisRotationY.manual = Free [string]
+data[2].equipment.cursorConfig.axisRotationZ <userdata> {"automatic":"Free","manual":"Free"}
+data[2].equipment.cursorConfig.axisRotationZ.automatic = Free [string]
+data[2].equipment.cursorConfig.axisRotationZ.manual = Free [string]
+data[2].equipment.cursorConfig.smoothOutTerrainNormal = false [boolean]
+data[2].equipment.cursorConfig.alwaysFacePlayer = false [boolean]
+data[2].equipment.cursorConfig.addRandomYawAngleOffset = false [boolean]
+data[2].equipment.cursorConfig.primaryActionConfig <userdata> {"hideWhenUnused":false,"snapPositionToAddableVoxel":false,"snapPositionToRemovableVoxel":false}
+data[2].equipment.cursorConfig.primaryActionConfig.hideWhenUnused = false [boolean]
+data[2].equipment.cursorConfig.primaryActionConfig.snapPositionToAddableVoxel = false [boolean]
+data[2].equipment.cursorConfig.primaryActionConfig.snapPositionToRemovableVoxel = false [boolean]
+data[2].equipment.cursorConfig.attachAngleConfig <userdata> {"ceilingAngle":"Disabled","wallAngle":"Disabled","floorAngle":"Narrow","defaultAttachDirection":"Floor","secondaryAttachDirection":"Wall","hasSecondaryAttachDirection":false,"forceUprightNormal":false}
+data[2].equipment.cursorConfig.attachAngleConfig.ceilingAngle = Disabled [string]
+data[2].equipment.cursorConfig.attachAngleConfig.wallAngle = Disabled [string]
+data[2].equipment.cursorConfig.attachAngleConfig.floorAngle = Narrow [string]
+data[2].equipment.cursorConfig.attachAngleConfig.defaultAttachDirection = Floor [string]
+data[2].equipment.cursorConfig.attachAngleConfig.secondaryAttachDirection = Wall [string]
+data[2].equipment.cursorConfig.attachAngleConfig.hasSecondaryAttachDirection = false [boolean]
+data[2].equipment.cursorConfig.attachAngleConfig.forceUprightNormal = false [boolean]
+data[2].equipment.cursorConfig.checkRequiredMaterialsOnPrimaryAction = true [boolean]
+data[2].equipment.cursorConfig.secondaryActionConfig <userdata> {"hideWhenUnused":false,"snapPositionToAddableVoxel":false,"snapPositionToRemovableVoxel":false}
+data[2].equipment.cursorConfig.secondaryActionConfig.hideWhenUnused = false [boolean]
+data[2].equipment.cursorConfig.secondaryActionConfig.snapPositionToAddableVoxel = false [boolean]
+data[2].equipment.cursorConfig.secondaryActionConfig.snapPositionToRemovableVoxel = false [boolean]
+data[2].equipment.cursorConfig.checkRequiredMaterialsOnSecondaryAction = false [boolean]
+data[2].equipment.cursorConfig.useSphereCast = false [boolean]
+data[2].equipment.cursorConfig.colliderMask <userdata> ["World","Solid","Interaction"]
+data[2].equipment.cursorConfig.colliderMask.1 = World [string]
+data[2].equipment.cursorConfig.colliderMask.2 = Solid [string]
+data[2].equipment.cursorConfig.colliderMask.3 = Interaction [string]
+data[2].equipment.cursorConfig.collisionCheckFlags <userdata> []
+data[2].equipment.cursorConfig.preferPositionInsideWater = false [boolean]
+data[2].equipment.cursorConfig.allowWaterPlacement = true [boolean]
+data[2].equipment.cursorConfig.keepSnappedToPlane = false [boolean]
+data[2].equipment.cursorConfig.checkBuildZoneEnemies = false [boolean]
+data[2].equipment.cursorConfig.checkSurfaceTopology = false [boolean]
+data[2].equipment.cursorConfig.allowedVoxels <userdata> []
+data[2].equipment.cursorConfig.highlightHoveredEntity = false [boolean]
+data[2].equipment.cursorConfig.showVoxelBlock = false [boolean]
+data[2].equipment.cursorConfig.addFxConfig <userdata> {"loopedSfx":"00000000-0000-0000-0000-000000000000","oneShotSfx":"00000000-0000-0000-0000-000000000000","oneShotVfx":"00000000-0000-0000-0000-000000000000","oneShotVfxOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"vfxParameters":{"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"vfxParameterOffset_boundingBoxMin":-1,"vfxParameterOffset_boundingBoxMax":-1,"vfxResourceReferences":{"meshes":[],"models":[],"jointCollections":[]}}
+data[2].equipment.cursorConfig.addFxConfig.loopedSfx = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorConfig.addFxConfig.oneShotSfx = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfx = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset <userdata> {"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}}
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.localOffset <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.localOffset.x = 0.0 [number]
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.localOffset.y = 0.0 [number]
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.localOffset.z = 0.0 [number]
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.worldOffset <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.worldOffset.x = 0.0 [number]
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.worldOffset.y = 0.0 [number]
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.worldOffset.z = 0.0 [number]
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.orientationOffset <userdata> {"x":0,"y":0,"z":0,"w":1}
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.orientationOffset.x = 0.0 [number]
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.orientationOffset.y = 0.0 [number]
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.orientationOffset.z = 0.0 [number]
+data[2].equipment.cursorConfig.addFxConfig.oneShotVfxOffset.orientationOffset.w = 1.0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters <userdata> {"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data <userdata> [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.1 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.2 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.3 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.4 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.5 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.6 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.7 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.8 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.9 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.10 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.11 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.12 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.13 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.14 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.15 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameters.data.16 = 0 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameterOffset_boundingBoxMin = -1 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxParameterOffset_boundingBoxMax = -1 [number]
+data[2].equipment.cursorConfig.addFxConfig.vfxResourceReferences <userdata> {"meshes":[],"models":[],"jointCollections":[]}
+data[2].equipment.cursorConfig.addFxConfig.vfxResourceReferences.meshes <userdata> []
+data[2].equipment.cursorConfig.addFxConfig.vfxResourceReferences.models <userdata> []
+data[2].equipment.cursorConfig.addFxConfig.vfxResourceReferences.jointCollections <userdata> []
+data[2].equipment.cursorConfig.subFxConfig <userdata> {"loopedSfx":"00000000-0000-0000-0000-000000000000","oneShotSfx":"00000000-0000-0000-0000-000000000000","oneShotVfx":"00000000-0000-0000-0000-000000000000","oneShotVfxOffset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"vfxParameters":{"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"vfxParameterOffset_boundingBoxMin":-1,"vfxParameterOffset_boundingBoxMax":-1,"vfxResourceReferences":{"meshes":[],"models":[],"jointCollections":[]}}
+data[2].equipment.cursorConfig.subFxConfig.loopedSfx = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorConfig.subFxConfig.oneShotSfx = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfx = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset <userdata> {"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}}
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.localOffset <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.localOffset.x = 0.0 [number]
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.localOffset.y = 0.0 [number]
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.localOffset.z = 0.0 [number]
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.worldOffset <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.worldOffset.x = 0.0 [number]
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.worldOffset.y = 0.0 [number]
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.worldOffset.z = 0.0 [number]
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.orientationOffset <userdata> {"x":0,"y":0,"z":0,"w":1}
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.orientationOffset.x = 0.0 [number]
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.orientationOffset.y = 0.0 [number]
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.orientationOffset.z = 0.0 [number]
+data[2].equipment.cursorConfig.subFxConfig.oneShotVfxOffset.orientationOffset.w = 1.0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters <userdata> {"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data <userdata> [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.1 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.2 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.3 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.4 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.5 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.6 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.7 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.8 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.9 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.10 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.11 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.12 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.13 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.14 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.15 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameters.data.16 = 0 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameterOffset_boundingBoxMin = -1 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxParameterOffset_boundingBoxMax = -1 [number]
+data[2].equipment.cursorConfig.subFxConfig.vfxResourceReferences <userdata> {"meshes":[],"models":[],"jointCollections":[]}
+data[2].equipment.cursorConfig.subFxConfig.vfxResourceReferences.meshes <userdata> []
+data[2].equipment.cursorConfig.subFxConfig.vfxResourceReferences.models <userdata> []
+data[2].equipment.cursorConfig.subFxConfig.vfxResourceReferences.jointCollections <userdata> []
+data[2].equipment.cursorConfig.defaultCursorStaticModel = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorConfig.defaultCursorSkinnedModel = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorConfig.defaultCursorVfx = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorConfig.requiredEnergySourceDistance = 0.0 [number]
+data[2].equipment.cursorConfig.requiredEnergyAmount = 0.0 [number]
+data[2].equipment.cursorModel = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorSkinnedModel = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cursorVfx = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.cameraDistanceOverride <userdata> {"distance":"Near","override":false}
+data[2].equipment.cameraDistanceOverride.distance = Near [string]
+data[2].equipment.cameraDistanceOverride.override = false [boolean]
+data[2].equipment.buildingCameraMode = Free [string]
+data[2].equipment.defaultVerticalPlacementOffset = 0.0 [number]
+data[2].equipment.maxTiltAngle = 180.0 [number]
+data[2].equipment.restrictDistance = true [boolean]
+data[2].equipment.directionalDistances = false [boolean]
+data[2].equipment.maxDistance = 8.0 [number]
+data[2].equipment.maxHorizontalDistance = 8.0 [number]
+data[2].equipment.minVerticalRelativeHeight = -1.0 [number]
+data[2].equipment.maxVerticalRelativeHeight = 1.0 [number]
+data[2].equipment.forceClampCursorToDistance = false [boolean]
+data[2].equipment.placedEntity = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.placementAABBmin <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.placementAABBmin.x = 0.0 [number]
+data[2].equipment.placementAABBmin.y = 0.0 [number]
+data[2].equipment.placementAABBmin.z = 0.0 [number]
+data[2].equipment.placementAABBmax <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.placementAABBmax.x = 0.0 [number]
+data[2].equipment.placementAABBmax.y = 0.0 [number]
+data[2].equipment.placementAABBmax.z = 0.0 [number]
+data[2].equipment.snappingAABBmin <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.snappingAABBmin.x = 0.0 [number]
+data[2].equipment.snappingAABBmin.y = 0.0 [number]
+data[2].equipment.snappingAABBmin.z = 0.0 [number]
+data[2].equipment.snappingAABBmax <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.snappingAABBmax.x = 0.0 [number]
+data[2].equipment.snappingAABBmax.y = 0.0 [number]
+data[2].equipment.snappingAABBmax.z = 0.0 [number]
+data[2].equipment.placementColliders <userdata> []
+data[2].equipment.placementNoBuildZones <userdata> {"shapes":[]}
+data[2].equipment.placementNoBuildZones.shapes <userdata> []
+data[2].equipment.placementWaterEntityType = None [string]
+data[2].equipment.appliedBuff = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.allowPlacementBelowFog = false [boolean]
+data[2].equipment.checkInhibitBuild = Strict [string]
+data[2].equipment.buildZoneRequired = true [boolean]
+data[2].equipment.requiresAltarSlot = false [boolean]
+data[2].equipment.requiredCraftingIngredients <userdata> []
+data[2].equipment.placedEntityLocalSpawnVelocity <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.placedEntityLocalSpawnVelocity.x = 0.0 [number]
+data[2].equipment.placedEntityLocalSpawnVelocity.y = 0.0 [number]
+data[2].equipment.placedEntityLocalSpawnVelocity.z = 0.0 [number]
+data[2].equipment.placementConsume = true [boolean]
+data[2].equipment.voxelData <userdata> {"isBuildingVoxel":false,"placeVoxelMaterial":"00000000-0000-0000-0000-000000000000","placeVoxelMaterialId":0}
+data[2].equipment.voxelData.isBuildingVoxel = false [boolean]
+data[2].equipment.voxelData.placeVoxelMaterial = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.voxelData.placeVoxelMaterialId = 0 [number]
+data[2].equipment.voxelObject = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.terrainVoxelObject = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.voxelSnappingConfig <userdata> {"snapBoxOffsetMin":{"x":0,"y":0,"z":0},"snapBoxOffsetMax":{"x":0,"y":0,"z":0},"basementHeight":0}
+data[2].equipment.voxelSnappingConfig.snapBoxOffsetMin <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.voxelSnappingConfig.snapBoxOffsetMin.x = 0 [number]
+data[2].equipment.voxelSnappingConfig.snapBoxOffsetMin.y = 0 [number]
+data[2].equipment.voxelSnappingConfig.snapBoxOffsetMin.z = 0 [number]
+data[2].equipment.voxelSnappingConfig.snapBoxOffsetMax <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.voxelSnappingConfig.snapBoxOffsetMax.x = 0 [number]
+data[2].equipment.voxelSnappingConfig.snapBoxOffsetMax.y = 0 [number]
+data[2].equipment.voxelSnappingConfig.snapBoxOffsetMax.z = 0 [number]
+data[2].equipment.voxelSnappingConfig.basementHeight = 0 [number]
+data[2].equipment.voxelBlueprintConfig = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.voxelBlueprintMaterialPool = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.voxelObjectMaterialOverride = -1 [number]
+data[2].equipment.visualModels <userdata> []
+data[2].equipment.gliderConfig <userdata> {"accelerationForward":1,"airResistanceLongitudinal":0.20000000298023224,"airResistanceLateral":1.850000023841858,"airResistanceVertical":0.800000011920929,"yawAngleSpeed":70,"pitchAngleSpeed":70,"rollAngleSpeed":145,"updraftStrengthChargeStartValue":0.20000000298023224}
+data[2].equipment.gliderConfig.accelerationForward = 1.0 [number]
+data[2].equipment.gliderConfig.airResistanceLongitudinal = 0.20000000298023 [number]
+data[2].equipment.gliderConfig.airResistanceLateral = 1.8500000238419 [number]
+data[2].equipment.gliderConfig.airResistanceVertical = 0.80000001192093 [number]
+data[2].equipment.gliderConfig.yawAngleSpeed = 70.0 [number]
+data[2].equipment.gliderConfig.pitchAngleSpeed = 70.0 [number]
+data[2].equipment.gliderConfig.rollAngleSpeed = 145.0 [number]
+data[2].equipment.gliderConfig.updraftStrengthChargeStartValue = 0.20000000298023 [number]
+data[2].equipment.overgrowthConfig <userdata> {"overgrowthId":{"value":0},"material":"00000000-0000-0000-0000-000000000000"}
+data[2].equipment.overgrowthConfig.overgrowthId <userdata> {"value":0}
+data[2].equipment.overgrowthConfig.overgrowthId.value = 0 [number]
+data[2].equipment.overgrowthConfig.material = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.terraformingType = Remove [string]
+data[2].equipment.equipmentEntityModelSetup <userdata> {"model":"00000000-0000-0000-0000-000000000000","animation":"00000000-0000-0000-0000-000000000000","offset":{"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}},"isSet":false}
+data[2].equipment.equipmentEntityModelSetup.model = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.equipmentEntityModelSetup.animation = 00000000-0000-0000-0000-000000000000 [string]
+data[2].equipment.equipmentEntityModelSetup.offset <userdata> {"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}}
+data[2].equipment.equipmentEntityModelSetup.offset.localOffset <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.equipmentEntityModelSetup.offset.localOffset.x = 0.0 [number]
+data[2].equipment.equipmentEntityModelSetup.offset.localOffset.y = 0.0 [number]
+data[2].equipment.equipmentEntityModelSetup.offset.localOffset.z = 0.0 [number]
+data[2].equipment.equipmentEntityModelSetup.offset.worldOffset <userdata> {"x":0,"y":0,"z":0}
+data[2].equipment.equipmentEntityModelSetup.offset.worldOffset.x = 0.0 [number]
+data[2].equipment.equipmentEntityModelSetup.offset.worldOffset.y = 0.0 [number]
+data[2].equipment.equipmentEntityModelSetup.offset.worldOffset.z = 0.0 [number]
+data[2].equipment.equipmentEntityModelSetup.offset.orientationOffset <userdata> {"x":0,"y":0,"z":0,"w":1}
+data[2].equipment.equipmentEntityModelSetup.offset.orientationOffset.x = 0.0 [number]
+data[2].equipment.equipmentEntityModelSetup.offset.orientationOffset.y = 0.0 [number]
+data[2].equipment.equipmentEntityModelSetup.offset.orientationOffset.z = 0.0 [number]
+data[2].equipment.equipmentEntityModelSetup.offset.orientationOffset.w = 1.0 [number]
+data[2].equipment.equipmentEntityModelSetup.isSet = false [boolean]
+data[2].sequences <userdata> []
+data[2].pidEntity = 7de1dfd2-743a-4670-a855-aab3275f17c4 [string]
+data[2].exchangeOnBroken = 00000000-0000-0000-0000-000000000000 [string]
+data[2].iconImage = 00000000-0000-0000-0000-000000000000 [string]
+data[2].iconModel = d255bdbc-f96c-4540-be93-e37996e6f1dc [string]
+data[2].iconScene = 382bb142-52f5-488b-bc6e-f37127c24fe0 [string]
+data[2].iconRenderOffset <userdata> {"localOffset":{"x":0,"y":0,"z":0},"worldOffset":{"x":0,"y":0,"z":0},"orientationOffset":{"x":0,"y":0,"z":0,"w":1}}
+data[2].iconRenderOffset.localOffset <userdata> {"x":0,"y":0,"z":0}
+data[2].iconRenderOffset.localOffset.x = 0.0 [number]
+data[2].iconRenderOffset.localOffset.y = 0.0 [number]
+data[2].iconRenderOffset.localOffset.z = 0.0 [number]
+data[2].iconRenderOffset.worldOffset <userdata> {"x":0,"y":0,"z":0}
+data[2].iconRenderOffset.worldOffset.x = 0.0 [number]
+data[2].iconRenderOffset.worldOffset.y = 0.0 [number]
+data[2].iconRenderOffset.worldOffset.z = 0.0 [number]
+data[2].iconRenderOffset.orientationOffset <userdata> {"x":0,"y":0,"z":0,"w":1}
+data[2].iconRenderOffset.orientationOffset.x = 0.0 [number]
+data[2].iconRenderOffset.orientationOffset.y = 0.0 [number]
+data[2].iconRenderOffset.orientationOffset.z = 0.0 [number]
+data[2].iconRenderOffset.orientationOffset.w = 1.0 [number]
+data[2].iconRenderCookingScale = 1.0 [number]
+data[2].iconRenderGlobalScale = 1.0 [number]
+data[2].overrideSceneExposure <userdata> {"enable":false,"exposure":0}
+data[2].overrideSceneExposure.enable = false [boolean]
+data[2].overrideSceneExposure.exposure = 0.0 [number]
+data[2].fitToItemModelBoundingBox = false [boolean]
+data[2].flags <userdata> ["HasPIDE","IsNonTintable","IsSalvageable"]
+data[2].flags.1 = HasPIDE [string]
+data[2].flags.2 = IsNonTintable [string]
+data[2].flags.3 = IsSalvageable [string]
+data[2].overrideKnowledgeGeneration = false [boolean]
+data[2].generateKnowledge <userdata> ["Pickup"]
+data[2].generateKnowledge.1 = Pickup [string]
+data[2].tags <userdata> [{"tag":"91ae130c-8cfb-4eaa-8c03-35323fd5a123","nominator":1,"denominator":103},{"tag":"a50f38f9-c8d6-4aa2-b890-4aac14021073","nominator":1,"denominator":1}]
+data[2].tags.1 <userdata> {"tag":"91ae130c-8cfb-4eaa-8c03-35323fd5a123","nominator":1,"denominator":103}
+data[2].tags.1.tag = 91ae130c-8cfb-4eaa-8c03-35323fd5a123 [string]
+data[2].tags.1.nominator = 1 [number]
+data[2].tags.1.denominator = 103 [number]
+data[2].tags.2 <userdata> {"tag":"a50f38f9-c8d6-4aa2-b890-4aac14021073","nominator":1,"denominator":1}
+data[2].tags.2.tag = a50f38f9-c8d6-4aa2-b890-4aac14021073 [string]
+data[2].tags.2.nominator = 1 [number]
+data[2].tags.2.denominator = 1 [number]
+data[2].uiValues <userdata> [{"locaId":{"value":2298204525},"valueFormat":"Normal","value":5,"scaleData":{"scaleFactor":0,"function":"None","sourceEntityType":"Self","scalingInputValue":"00000000-0000-0000-0000-000000000000"},"isSigned":true,"isScaled":false},{"locaId":{"value":2710058291},"valueFormat":"Percentage","value":2,"scaleData":{"scaleFactor":0,"function":"None","sourceEntityType":"Self","scalingInputValue":"00000000-0000-0000-0000-000000000000"},"isSigned":true,"isScaled":false}]
+data[2].uiValues.1 <userdata> {"locaId":{"value":2298204525},"valueFormat":"Normal","value":5,"scaleData":{"scaleFactor":0,"function":"None","sourceEntityType":"Self","scalingInputValue":"00000000-0000-0000-0000-000000000000"},"isSigned":true,"isScaled":false}
+data[2].uiValues.1.locaId <userdata> {"value":2298204525}
+data[2].uiValues.1.locaId.value = 2298204525 [number]
+data[2].uiValues.1.valueFormat = Normal [string]
+data[2].uiValues.1.value = 5 [number]
+data[2].uiValues.1.scaleData <userdata> {"scaleFactor":0,"function":"None","sourceEntityType":"Self","scalingInputValue":"00000000-0000-0000-0000-000000000000"}
+data[2].uiValues.1.scaleData.scaleFactor = 0.0 [number]
+data[2].uiValues.1.scaleData.function = None [string]
+data[2].uiValues.1.scaleData.sourceEntityType = Self [string]
+data[2].uiValues.1.scaleData.scalingInputValue = 00000000-0000-0000-0000-000000000000 [string]
+data[2].uiValues.1.isSigned = true [boolean]
+data[2].uiValues.1.isScaled = false [boolean]
+data[2].uiValues.2 <userdata> {"locaId":{"value":2710058291},"valueFormat":"Percentage","value":2,"scaleData":{"scaleFactor":0,"function":"None","sourceEntityType":"Self","scalingInputValue":"00000000-0000-0000-0000-000000000000"},"isSigned":true,"isScaled":false}
+data[2].uiValues.2.locaId <userdata> {"value":2710058291}
+data[2].uiValues.2.locaId.value = 2710058291 [number]
+data[2].uiValues.2.valueFormat = Percentage [string]
+data[2].uiValues.2.value = 2 [number]
+data[2].uiValues.2.scaleData <userdata> {"scaleFactor":0,"function":"None","sourceEntityType":"Self","scalingInputValue":"00000000-0000-0000-0000-000000000000"}
+data[2].uiValues.2.scaleData.scaleFactor = 0.0 [number]
+data[2].uiValues.2.scaleData.function = None [string]
+data[2].uiValues.2.scaleData.sourceEntityType = Self [string]
+data[2].uiValues.2.scaleData.scalingInputValue = 00000000-0000-0000-0000-000000000000 [string]
+data[2].uiValues.2.isSigned = true [boolean]
+data[2].uiValues.2.isScaled = false [boolean]
+data[2].uiBuffValues <userdata> []
+data[2].impactValues <userdata> {"simple":[MappedVariantValue: 000001C2C56B05C8,MappedVariantValue: 000001C2C56B1648,MappedVariantValue: 000001C2C56B0928],"scaled":[]}
+data[2].impactValues.simple <userdata> [MappedVariantValue: 000001C2C56B1468,MappedVariantValue: 000001C2C56B0328,MappedVariantValue: 000001C2C56B08C8]
+data[2].impactValues.simple.1 <userdata> MappedVariantValue: 000001C2C56B0B08
+data[2].impactValues.simple.1 <not iterable: [string "loot-rarity-inspector"]:28: bad argument #1 to 'for iterator' (table expected, got MappedVariantValue)>
+data[2].impactValues.simple.2 <userdata> MappedVariantValue: 000001C2C56B2A28
+data[2].impactValues.simple.2 <not iterable: [string "loot-rarity-inspector"]:28: bad argument #1 to 'for iterator' (table expected, got MappedVariantValue)>
+data[2].impactValues.simple.3 <userdata> MappedVariantValue: 000001C2C56B2968
+data[2].impactValues.simple.3 <not iterable: [string "loot-rarity-inspector"]:28: bad argument #1 to 'for iterator' (table expected, got MappedVariantValue)>
+data[2].impactValues.scaled <userdata> []
+data[2].perkReferences <userdata> ["bed0584d-697b-40ed-9152-33098ccd6744","d7f8ed1f-4749-4a84-8921-bce598f3c63f","bb803ba3-1729-4b42-aa19-6ca1d76489e7","3215c04a-1d1d-437d-8272-b6d36f9eb4fd","18f002b8-0e00-4f77-960e-d519a6a8a08d"]
+data[2].perkReferences.1 = bed0584d-697b-40ed-9152-33098ccd6744 [string]
+data[2].perkReferences.2 = d7f8ed1f-4749-4a84-8921-bce598f3c63f [string]
+data[2].perkReferences.3 = bb803ba3-1729-4b42-aa19-6ca1d76489e7 [string]
+data[2].perkReferences.4 = 3215c04a-1d1d-437d-8272-b6d36f9eb4fd [string]
+data[2].perkReferences.5 = 18f002b8-0e00-4f77-960e-d519a6a8a08d [string]
+data[2].perkIds <userdata> [{"value":2897751956},{"value":2668769973},{"value":980605900},{"value":3643737671},{"value":4255551932}]
+data[2].perkIds.1 <userdata> {"value":2897751956}
+data[2].perkIds.1.value = 2897751956 [number]
+data[2].perkIds.2 <userdata> {"value":2668769973}
+data[2].perkIds.2.value = 2668769973 [number]
+data[2].perkIds.3 <userdata> {"value":980605900}
+data[2].perkIds.3.value = 980605900 [number]
+data[2].perkIds.4 <userdata> {"value":3643737671}
+data[2].perkIds.4.value = 3643737671 [number]
+data[2].perkIds.5 <userdata> {"value":4255551932}
+data[2].perkIds.5.value = 4255551932 [number]
+data[2].itemTargetingSetup <userdata> {"targetingRange":24,"isSet":false}
+data[2].itemTargetingSetup.targetingRange = 24.0 [number]
+data[2].itemTargetingSetup.isSet = false [boolean]
+data[2].itemLevelRange <userdata> {"minLevel":5,"maxLevel":5}
+data[2].itemLevelRange.minLevel = 5 [number]
+data[2].itemLevelRange.maxLevel = 5 [number]
+data[2].damageSetup <userdata> {"speedMod":1,"dmgMod":1,"distribution":{"physicalCutDamage":0,"physicalPierceDamage":0,"physicalBluntDamage":0,"magicalFireDamage":0,"magicalIceDamage":0,"magicalFogDamage":0,"magicalLightningDamage":0,"healing":0,"poisonDamage":0,"woodDamage":0,"stoneDamage":0,"metalDamage":0,"explosionDamage":0},"isSet":false}
+data[2].damageSetup.speedMod = 1.0 [number]
+data[2].damageSetup.dmgMod = 1.0 [number]
+data[2].damageSetup.distribution <userdata> {"physicalCutDamage":0,"physicalPierceDamage":0,"physicalBluntDamage":0,"magicalFireDamage":0,"magicalIceDamage":0,"magicalFogDamage":0,"magicalLightningDamage":0,"healing":0,"poisonDamage":0,"woodDamage":0,"stoneDamage":0,"metalDamage":0,"explosionDamage":0}
+data[2].damageSetup.distribution.physicalCutDamage = 0.0 [number]
+data[2].damageSetup.distribution.physicalPierceDamage = 0.0 [number]
+data[2].damageSetup.distribution.physicalBluntDamage = 0.0 [number]
+data[2].damageSetup.distribution.magicalFireDamage = 0.0 [number]
+data[2].damageSetup.distribution.magicalIceDamage = 0.0 [number]
+data[2].damageSetup.distribution.magicalFogDamage = 0.0 [number]
+data[2].damageSetup.distribution.magicalLightningDamage = 0.0 [number]
+data[2].damageSetup.distribution.healing = 0.0 [number]
+data[2].damageSetup.distribution.poisonDamage = 0.0 [number]
+data[2].damageSetup.distribution.woodDamage = 0 [number]
+data[2].damageSetup.distribution.stoneDamage = 0 [number]
+data[2].damageSetup.distribution.metalDamage = 0 [number]
+data[2].damageSetup.distribution.explosionDamage = 0 [number]
+data[2].damageSetup.isSet = false [boolean]
+data[2].armorSetup <userdata> {"distribution":{"physical":0.019999999552965164,"blunt":0,"pierce":0,"cut":0,"magical":0.03999999910593033,"fire":0,"ice":0,"fog":0,"lightning":0},"isSet":true}
+data[2].armorSetup.distribution <userdata> {"physical":0.019999999552965164,"blunt":0,"pierce":0,"cut":0,"magical":0.03999999910593033,"fire":0,"ice":0,"fog":0,"lightning":0}
+data[2].armorSetup.distribution.physical = 0.019999999552965 [number]
+data[2].armorSetup.distribution.blunt = 0.0 [number]
+data[2].armorSetup.distribution.pierce = 0.0 [number]
+data[2].armorSetup.distribution.cut = 0.0 [number]
+data[2].armorSetup.distribution.magical = 0.03999999910593 [number]
+data[2].armorSetup.distribution.fire = 0.0 [number]
+data[2].armorSetup.distribution.ice = 0.0 [number]
+data[2].armorSetup.distribution.fog = 0.0 [number]
+data[2].armorSetup.distribution.lightning = 0.0 [number]
+data[2].armorSetup.isSet = true [boolean]
+data[2].fuelSetup <userdata> {"burnTime":{"value":0},"energyOutput":0,"isSet":false}
+data[2].fuelSetup.burnTime <userdata> {"value":0}
+data[2].fuelSetup.burnTime.value = 0 [number]
+data[2].fuelSetup.energyOutput = 0 [number]
+data[2].fuelSetup.isSet = false [boolean]
+data[2].blockSetup <userdata> {"quality":0,"isSet":false}
+data[2].blockSetup.quality = 0.0 [number]
+data[2].blockSetup.isSet = false [boolean]
+data[2].scaledCostSetup <userdata> {"staminaMod":0,"isSet":false}
+data[2].scaledCostSetup.staminaMod = 0.0 [number]
+data[2].scaledCostSetup.isSet = false [boolean]
+data[2].commerceLink <userdata> {"product":"00000000-0000-0000-0000-000000000000","id":{"value":{"value":0}},"isSet":false}
+data[2].commerceLink.product = 00000000-0000-0000-0000-000000000000 [string]
+data[2].commerceLink.id <userdata> {"value":{"value":0}}
+data[2].commerceLink.id.value <userdata> {"value":0}
+data[2].commerceLink.id.value.value = 0 [number]
+data[2].commerceLink.isSet = false [boolean]
+data[2].commerceRedeemLink <userdata> {"product":"00000000-0000-0000-0000-000000000000","id":{"value":{"value":0}},"isSet":false}
+data[2].commerceRedeemLink.product = 00000000-0000-0000-0000-000000000000 [string]
+data[2].commerceRedeemLink.id <userdata> {"value":{"value":0}}
+data[2].commerceRedeemLink.id.value <userdata> {"value":0}
+data[2].commerceRedeemLink.id.value.value = 0 [number]
+data[2].commerceRedeemLink.isSet = false [boolean]
+data[2].permissionSetup <userdata> {"permissions":[],"isSet":false}
+
+--- TYPE: keen::LootTableResource ---
+QUERY ERROR: type 'keen::LootTableResource' not found
+stack traceback:
+	[C]: in field 'get_resources_by_type'
+	[string "loot-rarity-inspector"]:59: in function <[string "loot-rarity-inspector"]:58>
+	[C]: in function 'pcall'
+	[string "loot-rarity-inspector"]:58: in function <[string "loot-rarity-inspector"]:36>
+	[C]: in function 'pcall'
+	[string "loot-rarity-inspector"]:36: in main chunk
+
+
+--- TYPE: keen::RandomLootResource ---
+QUERY ERROR: type 'keen::RandomLootResource' not found
+stack traceback:
+	[C]: in field 'get_resources_by_type'
+	[string "loot-rarity-inspector"]:59: in function <[string "loot-rarity-inspector"]:58>
+	[C]: in function 'pcall'
+	[string "loot-rarity-inspector"]:58: in function <[string "loot-rarity-inspector"]:36>
+	[C]: in function 'pcall'
+	[string "loot-rarity-inspector"]:36: in main chunk
+
+
+Resources inspected: 8
